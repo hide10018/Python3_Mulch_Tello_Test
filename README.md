@@ -1,20 +1,37 @@
-# Single_Tello_Test
+# tello_test2
 ## Step1
-Write the command set to be run in command.txt, for example:：
+command.txtを作る(書き換える):：
 ```
 command
 takeoff
 land
 ```
+
 ## Step2
-The script will automatically send a command to Tello. After receiving the reply from the previous command, the next command will be sent immediately.
-To add a delay, you can use the Delay command and the script will automatically delay. The unit of delay is seconds, which can be given to decimals.
+操作したいTelloの数だけTelloと接続し
 ```
-delay 5
+$ Python3 tello_test wifi_setup.txt
 ```
+を実行する
+
 ## Step3
-Run the script
 ```
-python tello_test.py command.txt
+$ arp -an
 ```
-The command window will type each instruction and its reply. After the execution is finished, the commands will be stored in the log folder to name the test end time.
+
+でTelloのmacアドレスを探してipを確認する
+
+## Step４
+ip.txtにStep3で調べたipを書き込む
+```
+Tello_ip0
+Tello_ip1
+・
+・
+・
+```
+## Step４
+```
+$ Python3 tello_test2 command.txt ip.txt
+```
+を実行する。
