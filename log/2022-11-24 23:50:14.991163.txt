@@ -1,0 +1,42 @@
+
+id: 0
+command: command
+response: None
+start time: 2022-11-24 23:50:15.006862
+end_time: None
+duration: None
+
+id: 1
+command: takeoff
+response: None
+start time: 2022-11-24 23:50:25.016389
+end_time: None
+duration: None
+
+id: 2
+command: forward 100
+response: None
+start time: 2022-11-24 23:50:35.026611
+end_time: None
+duration: None
+
+id: 3
+command: cw 180
+response: None
+start time: 2022-11-24 23:50:45.036817
+end_time: None
+duration: None
+
+id: 4
+command: forward 100
+response: None
+start time: 2022-11-24 23:50:55.045251
+end_time: None
+duration: None
+
+id: 5
+command: land
+response: None
+start time: 2022-11-24 23:51:05.052813
+end_time: None
+duration: None

@@ -1,0 +1,42 @@
+
+id: 0
+command: command
+response: None
+start time: 2022-11-18 11:38:07.203352
+end_time: None
+duration: None
+
+id: 1
+command: takeoff
+response: b'ok'
+start time: 2022-11-18 11:38:07.203594
+end_time: 2022-11-18 11:38:11.103898
+duration: 3.900304
+
+id: 2
+command: forward 100
+response: b'ok'
+start time: 2022-11-18 11:38:12.211043
+end_time: 2022-11-18 11:38:15.951982
+duration: 3.740939
+
+id: 3
+command: cw 180
+response: b'ok'
+start time: 2022-11-18 11:38:17.215820
+end_time: 2022-11-18 11:38:21.054621
+duration: 3.838801
+
+id: 4
+command: forward 100
+response: b'error Motor stop'
+start time: 2022-11-18 11:38:22.220224
+end_time: 2022-11-18 11:38:25.081271
+duration: 2.861047
+
+id: 5
+command: land
+response: None
+start time: 2022-11-18 11:38:27.228117
+end_time: None
+duration: None

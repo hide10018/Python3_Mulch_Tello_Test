@@ -1,0 +1,14 @@
+
+id: 0
+command: command
+response: None
+start time: 2022-11-11 13:27:16.693316
+end_time: None
+duration: None
+
+id: 1
+command: ap AiSysDev 2021WECWEC
+response: None
+start time: 2022-11-11 13:27:31.693704
+end_time: None
+duration: None

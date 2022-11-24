@@ -1,0 +1,11 @@
+takeoff
+delay 2.0
+up 50
+delay 2.0
+flip l
+delay 2.0
+flip r
+delay 2.0
+down 50
+delay 2.0
+land
