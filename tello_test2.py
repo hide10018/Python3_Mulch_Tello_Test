@@ -1,7 +1,3 @@
-
-#0P01029
-#新田英智
-
 from tello import Tello
 import sys
 from datetime import datetime
