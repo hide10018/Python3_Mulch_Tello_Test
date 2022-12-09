@@ -1,0 +1,77 @@
+
+id: 0
+command: ['command command command', 'command']
+response: None
+start time: 2022-12-09 09:41:36.895241
+end_time: None
+duration: None
+
+id: 1
+command: ['delay 10', 'takeoff takeoff takeoff']
+response: b'unknown command: takeoff'
+start time: 2022-12-09 09:41:36.895650
+end_time: 2022-12-09 09:41:36.964899
+duration: 0.069249
+
+id: 2
+command: ['takeoff', 'delay 10']
+response: None
+start time: 2022-12-09 09:41:46.902630
+end_time: None
+duration: None
+
+id: 3
+command: ['delay 10', 'up 50']
+response: b'error Motor stop'
+start time: 2022-12-09 09:41:56.909489
+end_time: 2022-12-09 09:41:56.951597
+duration: 0.042108
+
+id: 4
+command: ['forward 500', 'delay 2']
+response: None
+start time: 2022-12-09 09:42:06.915478
+end_time: None
+duration: None
+
+id: 5
+command: ['delay 10', 'forward 100']
+response: b'error Motor stop'
+start time: 2022-12-09 09:42:08.923053
+end_time: 2022-12-09 09:42:08.985078
+duration: 0.062025
+
+id: 6
+command: ['cw 180', 'delay 2']
+response: None
+start time: 2022-12-09 09:42:18.930477
+end_time: None
+duration: None
+
+id: 7
+command: ['delay 10', 'down 50']
+response: b'error Motor stop'
+start time: 2022-12-09 09:42:20.933802
+end_time: 2022-12-09 09:42:21.023608
+duration: 0.089806
+
+id: 8
+command: ['forward 500', 'delay 2']
+response: None
+start time: 2022-12-09 09:42:30.936499
+end_time: None
+duration: None
+
+id: 9
+command: ['delay 10', 'land']
+response: b'ok'
+start time: 2022-12-09 09:42:32.942345
+end_time: 2022-12-09 09:42:33.669999
+duration: 0.727654
+
+id: 10
+command: ['land']
+response: None
+start time: 2022-12-09 09:42:42.946806
+end_time: None
+duration: None

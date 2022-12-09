@@ -1,0 +1,7 @@
+
+id: 0
+command: command
+response: None
+start time: 2022-11-18 11:31:28.107596
+end_time: None
+duration: None

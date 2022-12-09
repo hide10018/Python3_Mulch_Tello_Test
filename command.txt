@@ -1,0 +1,11 @@
+command
+delay 10
+takeoff
+delay 10
+forward 500
+delay 10
+cw 180
+delay 10
+forward 500
+delay 10
+land

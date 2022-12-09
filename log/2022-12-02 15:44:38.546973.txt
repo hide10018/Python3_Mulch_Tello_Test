@@ -1,0 +1,77 @@
+
+id: 0
+command: ['command']
+response: None
+start time: 2022-12-02 15:44:38.548395
+end_time: None
+duration: None
+
+id: 1
+command: ['delay 10']
+response: None
+start time: 2022-12-02 15:44:38.558568
+end_time: None
+duration: None
+
+id: 2
+command: ['takeoff']
+response: None
+start time: 2022-12-02 15:44:38.561169
+end_time: None
+duration: None
+
+id: 3
+command: ['delay 10']
+response: None
+start time: 2022-12-02 15:44:38.563738
+end_time: None
+duration: None
+
+id: 4
+command: ['forward 500']
+response: None
+start time: 2022-12-02 15:44:38.566554
+end_time: None
+duration: None
+
+id: 5
+command: ['delay 10']
+response: None
+start time: 2022-12-02 15:44:38.568329
+end_time: None
+duration: None
+
+id: 6
+command: ['cw 180']
+response: None
+start time: 2022-12-02 15:44:38.570079
+end_time: None
+duration: None
+
+id: 7
+command: ['delay 10']
+response: None
+start time: 2022-12-02 15:44:38.578449
+end_time: None
+duration: None
+
+id: 8
+command: ['forward 500']
+response: None
+start time: 2022-12-02 15:44:38.580759
+end_time: None
+duration: None
+
+id: 9
+command: ['delay 10']
+response: None
+start time: 2022-12-02 15:44:38.583244
+end_time: None
+duration: None
+
+id: 10
+command: ['land']
+response: None
+start time: 2022-12-02 15:44:38.585523
+end_time: None
+duration: None

@@ -1,0 +1,14 @@
+
+id: 0
+command: command
+response: None
+start time: 2022-12-02 10:22:54.345961
+end_time: None
+duration: None
+
+id: 1
+command: takeoff
+response: None
+start time: 2022-12-02 10:22:54.346429
+end_time: None
+duration: None

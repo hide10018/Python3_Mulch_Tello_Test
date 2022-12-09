@@ -1,0 +1,11 @@
+command
+delay 10
+takeoff
+delay 10
+up 100
+delay 10
+down 100
+delay 10
+up 100
+delay 10
+land

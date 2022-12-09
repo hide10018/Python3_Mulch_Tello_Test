@@ -1,0 +1,14 @@
+
+id: 0
+command: command
+response: b'\xcc\x18\x01\xb9\x88V\x00h\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00^\x00\x00\x8f\x10\x00\x06\x00\x00\x00\x00\x007\x01'
+start time: 2022-11-18 09:38:29.736953
+end_time: 2022-11-18 09:38:29.764145
+duration: 0.027192
+
+id: 1
+command: ap AiSysDev 2021WECWEC
+response: b'ok'
+start time: 2022-11-18 09:38:29.764238
+end_time: 2022-11-18 09:38:29.764254
+duration: 1.6e-05

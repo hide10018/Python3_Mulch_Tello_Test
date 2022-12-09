@@ -1,0 +1,63 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2022-10-21 13:19:04.137733
+end_time: 2022-10-21 13:19:04.158559
+duration: 0.020826
+
+id: 1
+command: mon
+response: b'ok'
+start time: 2022-10-21 13:19:04.158585
+end_time: 2022-10-21 13:19:04.211325
+duration: 0.05274
+
+id: 2
+command: mdirection 2
+response: b'ok'
+start time: 2022-10-21 13:19:04.211385
+end_time: 2022-10-21 13:19:04.260444
+duration: 0.049059
+
+id: 3
+command: takeoff
+response: b'ok'
+start time: 2022-10-21 13:19:04.260476
+end_time: 2022-10-21 13:19:10.174103
+duration: 5.913627
+
+id: 4
+command: up 50
+response: b'ok'
+start time: 2022-10-21 13:19:12.181622
+end_time: 2022-10-21 13:19:14.386448
+duration: 2.204826
+
+id: 5
+command: jump 50 50 50 10 360 m4 m6
+response: b'out of range'
+start time: 2022-10-21 13:19:16.391496
+end_time: 2022-10-21 13:19:16.497589
+duration: 0.106093
+
+id: 6
+command: down 50
+response: b'ok'
+start time: 2022-10-21 13:19:18.502670
+end_time: 2022-10-21 13:19:21.043547
+duration: 2.540877
+
+id: 7
+command: moff
+response: b'ok'
+start time: 2022-10-21 13:19:23.048639
+end_time: 2022-10-21 13:19:23.087039
+duration: 0.0384
+
+id: 8
+command: land
+response: b'ok'
+start time: 2022-10-21 13:19:23.087106
+end_time: 2022-10-21 13:19:27.108228
+duration: 4.021122

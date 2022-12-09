@@ -1,0 +1,14 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2022-11-25 13:20:28.653624
+end_time: 2022-11-25 13:20:28.689680
+duration: 0.036056
+
+id: 1
+command: ap AiSysDev 2021WECWEC
+response: b'OK,drone will reboot in 3s'
+start time: 2022-11-25 13:20:28.689724
+end_time: 2022-11-25 13:20:28.942627
+duration: 0.252903

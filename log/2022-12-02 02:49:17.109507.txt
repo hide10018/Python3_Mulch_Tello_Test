@@ -1,0 +1,42 @@
+
+id: 0
+command: command
+response: None
+start time: 2022-12-02 02:49:17.110860
+end_time: None
+duration: None
+
+id: 1
+command: takeoff
+response: None
+start time: 2022-12-02 02:49:17.111446
+end_time: None
+duration: None
+
+id: 2
+command: up 50
+response: None
+start time: 2022-12-02 02:49:19.117501
+end_time: None
+duration: None
+
+id: 3
+command: forward 100
+response: None
+start time: 2022-12-02 02:49:21.124382
+end_time: None
+duration: None
+
+id: 4
+command: down 50
+response: None
+start time: 2022-12-02 02:49:23.131577
+end_time: None
+duration: None
+
+id: 5
+command: land
+response: None
+start time: 2022-12-02 02:49:25.139638
+end_time: None
+duration: None

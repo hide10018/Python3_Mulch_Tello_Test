@@ -1,0 +1,14 @@
+
+id: 0
+command: command
+response: b'error Motor stop'
+start time: 2022-11-25 10:10:39.990373
+end_time: 2022-11-25 10:10:47.375084
+duration: 7.384711
+
+id: 1
+command: takeoff
+response: None
+start time: 2022-11-25 10:10:49.998080
+end_time: None
+duration: None

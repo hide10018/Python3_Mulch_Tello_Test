@@ -1,0 +1,42 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2022-11-18 11:45:02.953559
+end_time: 2022-11-18 11:45:03.015428
+duration: 0.061869
+
+id: 1
+command: takeoff
+response: b'ok'
+start time: 2022-11-18 11:45:12.961342
+end_time: 2022-11-18 11:45:21.723606
+duration: 8.762264
+
+id: 2
+command: forward 100
+response: b'ok'
+start time: 2022-11-18 11:45:22.966172
+end_time: 2022-11-18 11:45:25.632140
+duration: 2.665968
+
+id: 3
+command: cw 180
+response: b'ok'
+start time: 2022-11-18 11:45:32.973631
+end_time: 2022-11-18 11:45:37.013734
+duration: 4.040103
+
+id: 4
+command: forward 100
+response: b'ok'
+start time: 2022-11-18 11:45:42.977428
+end_time: 2022-11-18 11:45:45.561826
+duration: 2.584398
+
+id: 5
+command: land
+response: None
+start time: 2022-11-18 11:45:52.982982
+end_time: None
+duration: None

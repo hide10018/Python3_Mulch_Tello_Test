@@ -1,0 +1,21 @@
+
+id: 0
+command: command
+response: None
+start time: 2022-11-18 11:34:08.454821
+end_time: None
+duration: None
+
+id: 1
+command: takeoff
+response: None
+start time: 2022-11-18 11:34:08.455077
+end_time: None
+duration: None
+
+id: 2
+command: land
+response: None
+start time: 2022-11-18 11:34:13.463064
+end_time: None
+duration: None

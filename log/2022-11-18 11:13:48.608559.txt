@@ -1,0 +1,7 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2022-11-18 11:13:48.609285
+end_time: 2022-11-18 11:13:48.678880
+duration: 0.069595
